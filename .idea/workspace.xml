@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/no2_fuek_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/no3.1_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/number_2_fuel_price_for_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/praca_z_dokumentacja.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/strin1_podokumentacji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string3_quote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-4_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-5_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-6_import_this.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/numbers_1_fuel_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/numbers_1_fuel_price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-1-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-5-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-5-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/strin1_podokumentacji.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string-during_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/string3_quote.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string-task-3_quote.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.number_2_fuel_price_for_users">
+  <component name="RunManager" selected="Python.string_task-6_import_this">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_2_fuel_price_for_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string-task-3_quote" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/number_2_fuel_price_for_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/string-task-3_quote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_1_fuel_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_task-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/numbers_1_fuel_price.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/string_task-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="praca_z_dokumentacja" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_task-4_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/praca_z_dokumentacja.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/string_task-4_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strin1_podokumentacji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_task-5_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/strin1_podokumentacji.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/string_task-5_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string3_quote" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_task-6_import_this" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/string3_quote.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02- typy i zmienne/string_task-6_import_this.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.number_2_fuel_price_for_users" />
-        <item itemvalue="Python.numbers_1_fuel_price" />
-        <item itemvalue="Python.string3_quote" />
-        <item itemvalue="Python.strin1_podokumentacji" />
-        <item itemvalue="Python.praca_z_dokumentacja" />
+        <item itemvalue="Python.string_task-6_import_this" />
+        <item itemvalue="Python.string_task-5_palindrome" />
+        <item itemvalue="Python.string_task-4_book" />
+        <item itemvalue="Python.string_task-1" />
+        <item itemvalue="Python.string-task-3_quote" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652301716204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1652629429416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652629429416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
