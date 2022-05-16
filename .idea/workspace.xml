@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-4_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-5_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-6_import_this.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-1-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-5-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/bool_task_no-5-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/strin1_podokumentacji.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string-during_classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/string3_quote.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string-task-3_quote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02- typy i zmienne/string_task-6_import_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/02- typy i zmienne/string_task-6_import_this.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652629429416</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes">
+      <created>1652634679843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652634679843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
