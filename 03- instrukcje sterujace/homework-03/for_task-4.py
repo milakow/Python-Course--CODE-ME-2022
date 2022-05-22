@@ -1,4 +1,4 @@
-factorial = num
-for num in range (1, 8):
-    factorial = factorial * num
+factorial = 1
+for i in range(1, 9):
+    factorial = factorial * i
     print(factorial)
