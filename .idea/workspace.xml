@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/repetition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/dict_task-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/dict_task-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/dict_task-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/dict_task-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/dict_task-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/set_task-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/tuple-krotka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/tuple_task-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/tuple_task-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje_task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje_task-4_kamien-papier-nozyce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/while_task-2-guessing_the_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/innyprzyklad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/funckje-przyklad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/inny-przyklad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/task-1-bmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/task-3-max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/task-5-cieplo-zimno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/for_task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/for_task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/for_task-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/for_task-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/if_task-8_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/if_task-8_sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/instrukcje_task-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/instrukcje_task-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/while_task=1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/while_task-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04- kolekcje/tuple_task-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04- kolekcje/tuple_task-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +50,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.for_task-4">
-    <configuration name="for_task-1_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.instrukcje-task-5_cieplo-zimno">
+    <configuration name="for_task-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/for_task-1_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/for_task-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_task-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="instrukcje-task-5_cieplo-zimno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/for_task-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_task-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="instrukcje_task-4_kamien-papier-nozyce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,28 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/for_task-4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="if_task-8_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/if_task-8_sorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje_task-4_kamien-papier-nozyce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repetition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task-3-max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +143,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/repetition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/task-3-max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadania_z_tablicy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/zadania_z_tablicy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.for_task-4" />
-        <item itemvalue="Python.repetition" />
-        <item itemvalue="Python.for_task-2" />
-        <item itemvalue="Python.for_task-1_list" />
-        <item itemvalue="Python.if_task-8_sorting" />
+        <item itemvalue="Python.instrukcje-task-5_cieplo-zimno" />
+        <item itemvalue="Python.instrukcje_task-4_kamien-papier-nozyce" />
+        <item itemvalue="Python.for_task-3" />
+        <item itemvalue="Python.zadania_z_tablicy" />
+        <item itemvalue="Python.task-3-max" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652977878705</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changes">
+      <created>1653245496128</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653245496128</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Changes">
+      <created>1653245528343</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653245528343</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

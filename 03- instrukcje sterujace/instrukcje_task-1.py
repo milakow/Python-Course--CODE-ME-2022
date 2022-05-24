@@ -1,5 +1,5 @@
-name = popraw to na liste imion
+name = input("Enter a list of names. Separate them with a whitespace:  ")
 name = name.split(' ')
 
-for n in names:
-    print ('Hello', n)
+for n in name:
+    print('Hello', n)
