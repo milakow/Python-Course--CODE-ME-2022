@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje_task-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje_task-4_kamien-papier-nozyce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/while_task-2-guessing_the_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03- instrukcje sterujace/innyprzyklad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/funckje-przyklad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/inny-przyklad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/task-1-bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/task-3-max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/task-5-cieplo-zimno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict-task-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict_task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict_task-4-multiplication-table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/lista_task-2_10liczb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/lista_task-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set+task-2-list, tuple, set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set_task-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set_task-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set_task-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/tuple_task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/instrukcje_task-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/instrukcje_task-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/while_task=1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/while_task-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04- kolekcje/tuple_task-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04- kolekcje/tuple_task-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +45,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.instrukcje-task-5_cieplo-zimno">
-    <configuration name="for_task-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.funkcje_task-7">
+    <configuration name="dict-task-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03- instrukcje sterujace" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/for_task-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict-task-7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="instrukcje-task-5_cieplo-zimno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict_task-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/dict_task-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="instrukcje_task-4_kamien-papier-nozyce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict_task-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +96,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje_task-4_kamien-papier-nozyce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict_task-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_task-4-multiplication-table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict_task-4-multiplication-table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funkcje_task-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/funkcje_task-7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,55 +172,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task-3-max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/task-3-max.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zadania_z_tablicy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/zadania_z_tablicy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.instrukcje-task-5_cieplo-zimno" />
-        <item itemvalue="Python.instrukcje_task-4_kamien-papier-nozyce" />
-        <item itemvalue="Python.for_task-3" />
-        <item itemvalue="Python.zadania_z_tablicy" />
-        <item itemvalue="Python.task-3-max" />
+        <item itemvalue="Python.funkcje_task-7" />
+        <item itemvalue="Python.dict_task-4-multiplication-table" />
+        <item itemvalue="Python.dict_task-2" />
+        <item itemvalue="Python.dict_task-1" />
+        <item itemvalue="Python.dict-task-7" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653245528343</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Changes">
+      <created>1653417506223</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653417506223</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Changes">
+      <created>1653417546589</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653417546589</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
