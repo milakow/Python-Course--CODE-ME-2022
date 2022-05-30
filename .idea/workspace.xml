@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict-task-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict_task-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict_task-4-multiplication-table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/lista_task-2_10liczb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/lista_task-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set+task-2-list, tuple, set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set_task-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set_task-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/set_task-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/tuple_task-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/all_kalendarz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/homework/all_task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/homework/all_task-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/homework/all_task-5-cieplo-zimno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/homework/all_task-6-paper, rock, scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/homework/funkcje_task-2-parzysta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05- funkcje/homework/funkcje_task-4-parzyste_z_listy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" beforeDir="false" afterPath="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/funkcje_task-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-I.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/funkcje_task-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/funkcje_task-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/funkcje_task-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/all_task-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/task-1-bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/all_task-1-bmi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/task-3-max.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/all_task-3-max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/task-5-cieplo-zimno.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/all_k,p,n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05- funkcje/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +46,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kamila/PycharmProjects/pythonProjectCM&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.funkcje_task-7">
-    <configuration name="dict-task-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.all_task-5-cieplo-zimno (1)">
+    <configuration name="all_task-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict-task-7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/homework/all_task-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_task-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_task-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/dict_task-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/homework/all_task-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_task-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_task-5-cieplo-zimno (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict_task-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/homework/all_task-5-cieplo-zimno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_task-4-multiplication-table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_task-5-cieplo-zimno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict_task-4-multiplication-table.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework\all_task-5-cieplo-zimno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funkcje_task-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="instrukcje-task-5_cieplo-zimno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05- funkcje/funkcje_task-7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03- instrukcje sterujace/homework-03/instrukcje-task-5_cieplo-zimno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.funkcje_task-7" />
-        <item itemvalue="Python.dict_task-4-multiplication-table" />
-        <item itemvalue="Python.dict_task-2" />
-        <item itemvalue="Python.dict_task-1" />
-        <item itemvalue="Python.dict-task-7" />
+        <item itemvalue="Python.all_task-5-cieplo-zimno (1)" />
+        <item itemvalue="Python.all_task-4" />
+        <item itemvalue="Python.all_task-2" />
+        <item itemvalue="Python.all_task-5-cieplo-zimno" />
+        <item itemvalue="Python.instrukcje-task-5_cieplo-zimno" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653417546589</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Changes">
+      <created>1653580352892</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653580352892</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

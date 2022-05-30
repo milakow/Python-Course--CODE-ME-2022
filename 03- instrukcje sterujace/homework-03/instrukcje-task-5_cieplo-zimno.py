@@ -1,23 +1,23 @@
 import random
 
 comp_choice = random.randint(1, 100)
-print(comp_choice)
+# print(comp_choice)
 
 for i in range(6):
-    user_choice = int(input('Wybierz liczbę od 1 do 100: '))
+    user_choice = int(input('Pick a number from 1 to 100 '))
     if not 0 < user_choice < 101:
-        print('Podałeś zły zakres.')
+        print('You have picked the number from wrong range.')
     elif user_choice == comp_choice:
-        print(f'Doskonale. Trafiłeś! Wybrana liczba to {comp_choice}')
+        print(f'Perfect. You did it! The correct number is {comp_choice}')
         break
     elif comp_choice - 10 <= user_choice <= comp_choice + 10:
-        print('Ciepło. Jesteś już blisko.')
+        print('Warm. You\'re so close.')
     else:
-        print('Zimno. Próbuj dalej.')
+        print('Cold. Try one more time.')
     continue
 
 if user_choice != comp_choice:
-    print(f'Przegrałeś. Spróbuj ponownie. Wybrana liczba to {comp_choice}.')
+    print(f'You have lost. Try another time. The correct number is {comp_choice}.')
 
 
 
