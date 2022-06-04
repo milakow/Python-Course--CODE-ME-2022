@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict_task-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04- kolekcje/homework/dict-task-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/04- kolekcje/homework/dict-task-7.py" afterDir="false" />
-    </list>
+    <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +38,7 @@
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dict_task-10">
+  <component name="RunManager" selected="Python.dict_task-9_four-subjects">
     <configuration name="dict-task-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionary-31.05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict_task-9_four-subjects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04- kolekcje/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/dictionary-31.05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04- kolekcje/homework/dict_task-9_four-subjects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dict_task-9_four-subjects" />
         <item itemvalue="Python.dict_task-10" />
         <item itemvalue="Python.dict_task-8" />
         <item itemvalue="Python.dict-task-7" />
         <item itemvalue="Python.dict_task-6" />
-        <item itemvalue="Python.dictionary-31.05" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653945758228</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Changes">
+      <created>1654346451571</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654346451571</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
