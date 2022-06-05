@@ -26,7 +26,6 @@ def main():
             print('Warm. You\'re so close.')
         else:
             print('Cold. Try one more time. ')
-
     if variable != password:
         print(f'You have lost. Try another time. The correct number is {password}.')
 

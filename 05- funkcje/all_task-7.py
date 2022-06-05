@@ -1,7 +1,6 @@
-
-
 def is_card(number):
     return number.isdigit() and 13 <= len(number) <= 16
+
 
 def is_visa(number):
     return len(number) in [13, 16] and number[0] == '4'
@@ -13,10 +12,12 @@ def is_mastercard(number):
     else:
         return False
 
+
 def is_american_express(number):
     return len(number) == 15 and number.startswith(('34', '37'))
 
-def main ():
+
+def main():
     while True:
         number = input('Podaj nr karty do sprawdzenia: ').replace(' ', '')
         if is_card(number):
@@ -31,5 +32,6 @@ def main ():
         print('To jest American Express')
     else:
         print('Nieznany typ karty.')
+
 
 main()
