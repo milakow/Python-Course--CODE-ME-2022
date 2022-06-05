@@ -8,7 +8,8 @@ def is_25_yo(year, brand):
 def main():
     car = {'brand': 'peugeot', 'model': '308', 'year': 2014}
     print(car)
-    print(is_25_yo(car['year'], car['brand']))
+    if is_25_yo(car['year'], car['brand']):
+        print(is_25_yo(car['year'], car['brand']))
 
 
 main()
