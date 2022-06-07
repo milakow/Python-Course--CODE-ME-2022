@@ -1,0 +1,4 @@
+compass
+flashlight
+bag
+water
