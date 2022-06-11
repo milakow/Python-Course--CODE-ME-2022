@@ -1,22 +1,22 @@
 import random
 
 
-def computer_choice():
+def get_computer_choice():
     comp_choice = random.randint(1, 100)
     return comp_choice
 
 
-def user_choice():
+def get_user_choice():
     user_idea = int(input('Wybierz liczbę od 1 do 100: '))
     return user_idea
 
 
 def main():
-    password = computer_choice()
+    password = get_computer_choice()
 
     rnd = int(input('Pick a number of rounds: '))
     for chance in range(rnd):
-        variable = user_choice()
+        variable = get_user_choice()
 
         if not 0 < variable < 101:
             print('You have picked the number from wrong range.')

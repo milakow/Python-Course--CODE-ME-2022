@@ -12,4 +12,5 @@ def pick_quotes():
 def main():
     pick_quotes()
 
+
 main()
