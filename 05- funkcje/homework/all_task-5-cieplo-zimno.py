@@ -22,6 +22,7 @@ def main():
             print('You have picked the number from wrong range.')
         elif variable == password:
             print('Amazing. You won!!!')
+            break
         elif password -10 <= variable <= password + 10:
             print('Warm. You\'re so close.')
         else:
