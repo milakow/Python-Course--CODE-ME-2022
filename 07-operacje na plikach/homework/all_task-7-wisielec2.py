@@ -1,11 +1,5 @@
 # Wisielec. Utwórz plik zawierający listę słów wg. kategorii np. zwierzęta, owoce etc. Poproś użytkownika o podanie kategorii przed rozpoczęciemy gry. Następny wczytaj listę haseł do programu, wylosuj jedno hasło z listy. Rozgrywka powinna być maksymalnie intuicyjna.
 import random
-#
-# def pick_no_of_chances():
-#
-#     num_of_rounds = int(input(('Welcome in Hangman game. How many rounds would you like to play?: ')))
-#     return num_of_rounds
-#     print('')
 
 
 def pick_cat(lines, user_cat):
@@ -17,7 +11,7 @@ def pick_cat(lines, user_cat):
         else:
             break
 
-    with open('wisielec') as fopen:
+    with open('wisielec', 'r') as fopen:
         lines = str(fopen.readlines())
     lines = lines.split('.')
     category1 = lines[1]
@@ -37,14 +31,14 @@ def pick_password(lines, user_cat):
     password_list = ['cracow']
     chosen_password = random.choice(password_list)
     return chosen_password
-    if user_cat == 'f':
-        return category1
-    elif user_cat == 'a':
-        return category2
-    else:
-        return category3
-#
-#
+    # if user_cat == 'f':
+    #     return category1
+    # elif user_cat == 'a':
+    #     return category2
+    # else:
+    #     return category3
+
+
 # def guess_password(num_of_rounds, chosen_password):
 #     chosen_password_list = list(chosen_password)
 #     password_line = []

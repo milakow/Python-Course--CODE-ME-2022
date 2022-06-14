@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all_task-1-cytaty.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all_task-1-cytaty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-2-wielkosc_pliku.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-2-wielkosc_pliku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-3_reading-the-first-5-lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-3_reading-the-first-5-lines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-4_3-random-quotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-4_3-random-quotes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +30,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kamila/PycharmProjects/pythonProjectCM/09- exceptions&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Kamila/PycharmProjects/pythonProjectCM/07-operacje na plikach/homework",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\09- exceptions" />
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\07-operacje na plikach\homework" />
+      <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\09- exceptions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\08- modules\task-1-bmi" />
@@ -54,7 +49,7 @@
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.all-task-5-tadeusz.cd">
+  <component name="RunManager" selected="Python.przyklad">
     <configuration name="all-task-5-tadeusz.cd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,27 +63,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="all_task-1-cytaty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/all_task-1-cytaty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,13 +155,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="przyklad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/przyklad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.przyklad" />
         <item itemvalue="Python.all-task-5-tadeusz.cd" />
         <item itemvalue="Python.all_task-4_3-random-quotes" />
         <item itemvalue="Python.all_task-3_reading-the-first-5-lines" />
         <item itemvalue="Python.all_task-2-wielkosc_pliku" />
-        <item itemvalue="Python.all_task-1-cytaty" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655227696619</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Changes">
+      <created>1655228871935</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1655228871935</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
