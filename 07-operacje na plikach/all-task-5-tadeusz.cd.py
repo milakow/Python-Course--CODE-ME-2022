@@ -1,3 +1,4 @@
+#Wykorzystaj plik zawierający fragment Pana Tadeusza. Znajdź najdłuższe słowo występujące w zadanym fragmencie.
 def clear_content(txt):
     for char in '!,..-();—':
         txt = txt.replace(char, '')
@@ -20,7 +21,7 @@ def main():
 
     content = clear_content(content)
     content = content.split()
-    print(content)
+    # print(content)
     longest_word = find_longest(content)
     print(longest_word)
 

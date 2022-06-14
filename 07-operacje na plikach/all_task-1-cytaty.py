@@ -1,3 +1,7 @@
+# Utwórz plik zawierający listę ok. 20 cytatów. Każdy cytat powinen się znaleźć w nowej linii. Utwórz funkcję, która losuje i wyświetla w sposób ciekawy cytat na dziś.
+#zmodyfikuj plik źródłowy, tak aby użytkownik mógł podać własną nazwę pliku z cytatami
+#plik z cytatami powinen również zawierać informację o autorze, wyświetl cytat i pod spodem autora
+
 import random
 
 
@@ -11,7 +15,6 @@ def pick_quote(filename):
 
 def show(quote):
     quote = quote.split("-")
-    print(quote)
     separator = '*' * 150
     print('\n Quote of the day is: \n')
     print(separator)

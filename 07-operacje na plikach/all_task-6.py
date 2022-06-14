@@ -1,3 +1,5 @@
+#Rozpoznawanie kart. Utwórz plik zawierający numery kart kredytowych. Sprawdź dla każdej kart jej typ. Podziel kart do plików wg typów np. visa.txt, mastercard.txt, americanexpress.txt.
+
 def is_card(number):
     return number.isdigit() and 13 <= len(number) <= 16
 
@@ -28,7 +30,6 @@ def check_card(number):
         save('unknown_card', number)
 
 
-
 def read():
     with open('cards.txt') as fopen:
         content = fopen.readlines()
@@ -41,11 +42,8 @@ def save(cardtype, number):
         fopen.write(f'{number}\n')
 
 
-
 def main():
     cards_list = read()
-
-
     for number in cards_list:
         number = number.replace(' ', '').replace('\n', '')
         check_card(number)

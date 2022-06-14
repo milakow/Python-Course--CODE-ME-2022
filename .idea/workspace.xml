@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/09- exceptions/antigravity-09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-bmi/bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-bmi/fitmeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-bmi/nadwaga.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-bmi/niedowaga.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-bmi/otylosc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-bmi/waga_prawidlowa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-1-lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-3-index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-5-bmi-cd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09- exceptions/task-5-bmi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05- funkcje/homework/NOT-FINISHED-all_task-10-hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/05- funkcje/homework/all_task-10-hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all_task-1-cytaty.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all_task-1-cytaty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-2-wielkosc_pliku.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-2-wielkosc_pliku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-3_reading-the-first-5-lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-3_reading-the-first-5-lines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-4_3-random-quotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-4_3-random-quotes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +54,8 @@
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NOT-FINISHED-all_task-10-hangman">
-    <configuration name="all_task-10-hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.all-task-5-tadeusz.cd">
+    <configuration name="all-task-5-tadeusz.cd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05- funkcje/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework\all_task-10-hangman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="antigravity-09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_task-1-cytaty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09- exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09- exceptions/antigravity-09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/all_task-1-cytaty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fitmeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_task-2-wielkosc_pliku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +105,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09- exceptions/task-1-bmi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09- exceptions/task-1-bmi/fitmeter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-2-wielkosc_pliku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_task-3_reading-the-first-5-lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-3_reading-the-first-5-lines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_task-4_3-random-quotes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-4_3-random-quotes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,55 +181,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task-1-lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09- exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09- exceptions/task-1-lista.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task-3-index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09- exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09- exceptions/task-3-index.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NOT-FINISHED-all_task-10-hangman" />
-        <item itemvalue="Python.antigravity-09" />
-        <item itemvalue="Python.fitmeter" />
-        <item itemvalue="Python.task-3-index" />
-        <item itemvalue="Python.task-1-lista" />
+        <item itemvalue="Python.all-task-5-tadeusz.cd" />
+        <item itemvalue="Python.all_task-4_3-random-quotes" />
+        <item itemvalue="Python.all_task-3_reading-the-first-5-lines" />
+        <item itemvalue="Python.all_task-2-wielkosc_pliku" />
+        <item itemvalue="Python.all_task-1-cytaty" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654969068673</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Changes">
+      <created>1655227696618</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1655227696619</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
