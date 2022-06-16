@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8/all_task-8-generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec2.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec2.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/hangman-task7/all_task-7-hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/example.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +47,14 @@
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\09- exceptions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\07-operacje na plikach\homework\hangman-task7" />
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\08- modules\task-1-bmi" />
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\07-operacje na plikach\przyklad-z-zajec" />
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.all_task-7-wisielec2">
-    <configuration name="all-task-5-tadeusz.cd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.all_task-8-generator">
+    <configuration name="all_task-7-hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/all-task-5-tadeusz.cd.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Kamila\PycharmProjects\pythonProjectCM\07-operacje na plikach\homework\hangman-task7\all_task-7-hangman.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="all_task-7-wisielec2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_task-8-generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8/all_task-8-generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.all_task-7-wisielec2" />
+        <item itemvalue="Python.all_task-8-generator" />
+        <item itemvalue="Python.all_task-7-hangman" />
         <item itemvalue="Python.all_task-7-wisielec" />
         <item itemvalue="Python.przyklad" />
         <item itemvalue="Python.example" />
-        <item itemvalue="Python.all-task-5-tadeusz.cd" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655241257566</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Changes">
+      <created>1655396086024</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1655396086024</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -9,10 +9,10 @@ def is_visa(number):
 
 
 def is_mastercard(number):
-        if len(number) == 16 and (51 <= int(number[0:2]) <= 55 or int(number[0:4]) in range(2221, 2720+1)):
-            return True
-        else:
-            return False
+    if len(number) == 16 and (51 <= int(number[0:2]) <= 55 or int(number[0:4]) in range(2221, 2720+1)):
+        return True
+    else:
+        return False
 
 
 def is_american_express(number):
@@ -33,7 +33,6 @@ def check_card(number):
 def read():
     with open('cards.txt') as fopen:
         content = fopen.readlines()
-
     return content
 
 
@@ -47,7 +46,6 @@ def main():
     for number in cards_list:
         number = number.replace(' ', '').replace('\n', '')
         check_card(number)
-
     print('Karty zostały podzielone na pliki')
 
 

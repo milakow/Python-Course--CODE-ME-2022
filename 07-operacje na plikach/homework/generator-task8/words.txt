@@ -1,0 +1,6 @@
+Lekarze,Dziadkowie,Ala i Ela,Twoi przyjaciele
+wczoraj,rok temu,w zeszłym miesiącu,pół roku temu
+biegali,pływali,spacerowali,ćwiczyli,grali w siatkówkę,pływali
+nad morzem,wzdłuż rzeki,w parku,na rynku,w lesie,w górach,na polanie
+aby,żeby,bo chcą
+odpocząć,spełniać marzenia,być wysportowanym,trzymać formę
