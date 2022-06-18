@@ -18,22 +18,22 @@ def get_bmi_status(bmi):
 
 def read(result):
     if result < 18.5:
-        with open('niedowaga.txt') as fopen:
+        with open('niedowaga.txt', encoding='utf-8') as fopen:
             content = fopen.readlines()
         return content
 
     elif 18.5 <= result <= 24.9:
-        with open('waga_prawidlowa.txt') as fopen:
+        with open('waga_prawidlowa.txt', encoding='utf-8') as fopen:
             content = fopen.readlines()
         return content
 
     elif 25 <= result < 29.9:
-        with open('nadwaga.txt') as fopen:
+        with open('nadwaga.txt', encoding='utf-8') as fopen:
             content = fopen.readlines()
         return content
 
     else:
-        with open('otylosc.txt') as fopen:
+        with open('otylosc.txt', encoding='utf-8') as fopen:
             content = fopen.readlines()
         return content
 

@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8/all_task-8-generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-2-delta/count_delta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-2-delta/deltaf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/all_task-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec2.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-operacje na plikach/homework/hangman-task7/all_task-7-hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-operacje na plikach/homework/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08- modules/task-1-bmi/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/08- modules/task-1-bmi/bmi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08- modules/task-1-bmi/fitmeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/08- modules/task-1-bmi/fitmeter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.all_task-8-generator">
+  <component name="RunManager" selected="Python.count_delta">
     <configuration name="all_task-7-hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count_delta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +124,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/homework/task-2-delta" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/homework/task-2-delta/count_delta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fitmeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/task-1-bmi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/task-1-bmi/fitmeter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,34 +179,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="przyklad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/przyklad.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_delta" />
+        <item itemvalue="Python.fitmeter" />
         <item itemvalue="Python.all_task-8-generator" />
         <item itemvalue="Python.all_task-7-hangman" />
         <item itemvalue="Python.all_task-7-wisielec" />
-        <item itemvalue="Python.przyklad" />
-        <item itemvalue="Python.example" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655396086024</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Changes">
+      <created>1655402080100</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1655402080100</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
