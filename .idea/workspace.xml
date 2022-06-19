@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="913290c7-bb2e-44d8-b946-1e57cbe0c0d0" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-2-delta/count_delta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-2-delta/deltaf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-4-hangman/all_task-7-hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-4-hangman/chances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-4-hangman/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-4-hangman/wisielec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-7-fibonnaci_sequence/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08- modules/homework/task-7-fibonnaci_sequence/sequence_counter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08- modules/task-1-bmi/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/08- modules/task-1-bmi/bmi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08- modules/task-1-bmi/fitmeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/08- modules/task-1-bmi/fitmeter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08- modules/task-5_area/area.py" beforeDir="false" afterPath="$PROJECT_DIR$/08- modules/task-5_area/area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08- modules/task-5_area/counting.py" beforeDir="false" afterPath="$PROJECT_DIR$/08- modules/task-5_area/counting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kamila/PycharmProjects/pythonProjectCM/07-operacje na plikach/homework&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Kamila/PycharmProjects/pythonProjectCM/08- modules/homework/task-4-hangman",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\08- modules\homework\task-4-hangman" />
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\07-operacje na plikach\homework" />
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\09- exceptions" />
     </key>
@@ -52,8 +57,8 @@
       <recent name="C:\Users\Kamila\PycharmProjects\pythonProjectCM\05- funkcje\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.count_delta">
-    <configuration name="all_task-7-hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sequence_counter">
+    <configuration name="all_task-7-hangman (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,53 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/homework/task-4-hangman" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Kamila\PycharmProjects\pythonProjectCM\07-operacje na plikach\homework\hangman-task7\all_task-7-hangman.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="all_task-7-wisielec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/all_task-7-wisielec.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="all_task-8-generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectCM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-operacje na plikach/homework/generator-task8/all_task-8-generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/homework/task-4-hangman/all_task-7-hangman.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fitmeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="counting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectCM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +108,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/task-1-bmi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/task-5_area" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/task-1-bmi/fitmeter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/task-5_area/counting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/homework/task-7-fibonnaci_sequence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/homework/task-7-fibonnaci_sequence/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,13 +163,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sequence_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectCM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08- modules/homework/task-7-fibonnaci_sequence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08- modules/homework/task-7-fibonnaci_sequence/sequence_counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sequence_counter" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.all_task-7-hangman (1)" />
+        <item itemvalue="Python.counting" />
         <item itemvalue="Python.count_delta" />
-        <item itemvalue="Python.fitmeter" />
-        <item itemvalue="Python.all_task-8-generator" />
-        <item itemvalue="Python.all_task-7-hangman" />
-        <item itemvalue="Python.all_task-7-wisielec" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655402080100</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Changes">
+      <created>1655569783384</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1655569783384</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
