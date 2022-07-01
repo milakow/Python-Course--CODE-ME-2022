@@ -11,7 +11,7 @@ def get_bmi_status(bmi):
     elif 18.5 <= bmi <= 24.9:
         return ("waga prawidłowa")
     elif 25 <= bmi < 29.9:
-        return ("nadwaga.txt")
+        return ("overweight.txt")
     else:
         return ("otyłość")
 

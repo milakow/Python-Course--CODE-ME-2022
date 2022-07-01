@@ -1,10 +1,11 @@
+#Stwórz listę 10 elementową (różne typy!). Pozwól użytkownikowi podać dowolny index. Podziel 1 przez liczbę pod indexem wybranym przez użytkownika. Obsłuż błędy.
 def get_user_choice(my_list: object, index: object) -> object:
-    result = 1 / my_list[index]
+    return round(1 / my_list[index], 4)
 
 
 def main():
     my_list = [0, 90, 'si', True, None, 23.45, (1, 'a'), False, {}, [2, 2]]
-    index = int(input('Podaj indeks liczby z list, która zostanie poddana operacji dzielenia: '))
+    index = int(input('Pick a number index from the list, which will be divided: '))
 
     try:
         effect = get_user_choice(my_list, index)

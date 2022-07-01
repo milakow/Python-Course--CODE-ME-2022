@@ -10,6 +10,6 @@ if bmi < 18.5:
 elif 18.5 <= bmi <= 24.9:
     print("waga prawidłowa")
 elif 25 <= bmi < 29.9:
-    print("nadwaga.txt")
+    print("overweight.txt")
 else:
     print("otyłość")
