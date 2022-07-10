@@ -10,7 +10,6 @@ class Vehicle(ABC):
     def document(self):
         pass
 
-
 class Bike(Vehicle):
     def feature(self):
         print('has two wheels')
@@ -31,7 +30,6 @@ class Truck(Vehicle):
 
     def document(self):
         print('driving license- cat. C+E')
-
 
 def main():
     b = Bike()
