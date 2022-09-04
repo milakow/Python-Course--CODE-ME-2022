@@ -1,10 +1,15 @@
-def print_days_in_month(data):
-    for month in data:
-        print(month[0])
-        print(type(month[1]))
-        for days in month[1]:
-            print(days.endswith(''))
-        print('\n')
+def get_days_in_month(month):
+    print(month[0], '\n')
+    for days in range(len(month[1])+1):
+        if days > 0:
+            if days < 10:
+                print(f'0{days}', end=' ')
+            else:
+                print(days, end=' ')
+            if days % 7 == 0:
+                print('\n')
+
+    print(2 * '\n')
 
 
 def main():
@@ -21,11 +26,11 @@ def main():
         ('October', range(31)),
         ('November', range(30)),
         ('December', range(31)),
-          ]
+    ]
 
-    # index = data[1].index('February')
-    # print(index)
-    print_days_in_month(data)
+    for month in data:
+        get_days_in_month(month)
+
 
 if __name__ == "__main__":
     main()

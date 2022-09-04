@@ -11,6 +11,7 @@ def show_month(month_name, month_days):
         else:
             print(day, end=' ')
 
+
 def main():
     data = [
         ('January', range(31)),
@@ -27,12 +28,10 @@ def main():
         ('December', range(31)),
     ]
 
-
     data = dict(data)
 
     for name, days in data.items():
         show_month(name, days)
 
+
 main()
-
-
